@@ -1,0 +1,3 @@
+name: testplugin
+main: me.kingcjy.test.Main
+version: 0.0.1
