@@ -1,10 +1,3 @@
-<prefix>
--------------
--------- [내 서 버 다 아] --------
-</prefix>
-<command>
-§3{help.command} - {help.description}
-</command>
-<suffix>
--------------------------------
-</suffix>
+<prefix>§2-------- [내 플러그인!!] --------</prefix>
+<command>§3{help.command} -- {help.description}</command>
+<suffix>§2-------------------------------</suffix>
